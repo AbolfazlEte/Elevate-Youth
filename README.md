@@ -22,4 +22,4 @@ Welcome to **Elevate Youth**! Elevate Youth is an interactive, web platform desi
 
 **Check out the live version here:**
 
-🔗 [View Live Demo Site](https://github.com/AbolfazlEte/Elevate-Youth)
+🔗 [View Live Demo Site](https://abolfazlete.github.io/Elevate-Youth/)
