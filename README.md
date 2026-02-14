@@ -1,4 +1,4 @@
-# 🥩 Elevate Youth
+# 🔝 Elevate Youth
 
 Welcome to **Elevate Youth**! Elevate Youth is an interactive, web platform designed to empower young people with tools for personal growth, skills development, and community engagement.
 
@@ -6,11 +6,11 @@ Welcome to **Elevate Youth**! Elevate Youth is an interactive, web platform desi
 
 ## 🚀 Key Features
 
-- **Modern Aesthetics:** Clean, minimalist layout leveraging modern shadows and transitions.
-🎯 **Youth-Focused Content**: Curated sections for personal and professional development
-💡 **Interactive UI: Modern**: engaging user experience
-📈 **Scalable Code: Clean**: structured, and easy to mainta
-- **Clean Codebase:** Structured HTML and utility classes for easy maintenance and extension.
+- **Modern Aesthetics:** Clean, minimalist layout leveraging modern shadows and transitions. <br/>
+🎯 **Youth-Focused Content**: Curated sections for personal and professional development <br/>
+💡 **Interactive UI: Modern**: engaging user experience <br/>
+📈 **Scalable Code: Clean**: structured, and easy to mainta <br/>
+- **Clean Codebase:** Structured HTML and utility classes for easy maintenance and extension. <br/>
 
 
 ---
